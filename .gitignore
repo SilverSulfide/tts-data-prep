@@ -1,0 +1,6 @@
+.idea
+/models
+/output
+/test_text
+# cython build stuff goes into ./build dir
+build
