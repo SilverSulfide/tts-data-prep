@@ -1,6 +1,8 @@
 .idea
-/models
+/filelist
+/gold_text
+/out_data
 /output
-/test_text
-# cython build stuff goes into ./build dir
-build
+/output_64
+/sandra_data
+/xvecs
