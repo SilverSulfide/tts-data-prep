@@ -3,9 +3,10 @@ import matplotlib.colors as mcolors
 
 import xml.etree.ElementTree as ET
 import numpy as np
-import random
 from collections import defaultdict
 from tqdm import tqdm
+
+# TODO: add tsne option
 from sklearn.manifold import TSNE
 from sklearn.decomposition import PCA
 
